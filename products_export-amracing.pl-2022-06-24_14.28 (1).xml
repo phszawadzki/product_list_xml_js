@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?><offer file_format="IOF" generated="2022-06-24 14:28:21" iaiext:currency="PLN" xmlns:iof="http://www.iai-shop.com/developers/iof.phtml" version="3.0" extensions="yes" xmlns:iaiext="http://www.iai-shop.com/developers/iof/extensions.phtml"><products language="pol">
+<product id="12812" currency="PLN" code_on_card="8019227374582" producer_code_standard="GTIN13" type="regular" vat="23.0" iaiext:product_free="n" iaiext:save_serial_numbers="na" iaiext:available="yes" site="1"><producer id="1638218761" name="Pirelli"/>
+<category id="1214553889" xml:lang="pol" name="OPONY, DĘTKI"/>
+<unit id="0" xml:lang="pol" name="szt."/>
+<card url="https://amracing.pl/pl/products/opona-przod-pirelli-scorpion-trail-ii-54v-90-90-21-3745800-enduro-off-road-droga-12812" url_generated="https://amracing.pl/pl/products/opona-przod-pirelli-scorpion-trail-ii-54v-90-90-21-3745800-enduro-off-road-droga-12812"/>
+<description><name xml:lang="pol"><![CDATA[Opona przód pirelli scorpion trail II 54V 90/90-21 (3745800)()(enduro, off road droga)]]></name>
+<long_desc xml:lang="pol"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" ""><HTML><HEAD> 
+<META http-equiv="Content-Type" content="text/html; charset=windows-1250"> 
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD> 
+<BODY>
+<UL>
+  <LI>Cena dotyczy 1 szt </LI></UL>
+<DIV><STRONG style="color: black;">GOTOWA, BY PODEJMOWAĆ 
+WYZWANIA</STRONG><BR><BR></DIV>
+<OL>
+  <LI>Agresywne, terenowe wzornictwo</LI>
+  <LI>Połączenie osiągów opony sportowo-turystycznej i enduro w jednym 
+  produkcie</LI>
+  <LI>Technologia dwóch mieszanek gumowych</LI>
+  <LI>Większa trwałość</LI>
+  <LI>Wysoki poziom prowadzenia przez cały okres eksploatacji</LI>
+  <LI>Lepsze zachowanie na mokrych nawierzchniach</LI></OL>
+<DIV></DIV>
+<DIV>ZWRÓĆ UWAGĘ NA OGRANICZENIA PRĘDKOŚCI MOTOCYKLA</DIV>
+<DIV></DIV>
+<DIV>Niektóre motocykle mogą być wyposażone fabrycznie albo w opony  szosowe, 
+albo w opony trialowe. Opony szosowe zazwyczaj mają wyższe  limity prędkości niż 
+opony trialowe, więc jeśli zostają wymienione na te drugie, maksymalna prędkość 
+motocykla nie powinna przekraczać  właściwego limitu opony trialowej. W takim 
+przypadku, w widocznym  miejscu na motocyklu powinna zostać umieszczona naklejka 
+ostrzegawcza  sugerująca niższy limit prędkości. Wszelkie wątpliwości powinny 
+zostać  skonsultowane z producentem motocykla.</DIV>
+<DIV></DIV></BODY></HTML>
+]]></long_desc>
+<short_desc xml:lang="pol"><![CDATA[Opona przód pirelli scorpion trail II 54V 90/90-21 (3745800)()(enduro, off road droga)]]></short_desc>
+</description>
+<price gross="619.00" net="503.25"/>
+<srp gross="0.00" net="0.00"/>
+<strikethrough_retail_price gross="450.55" net="366.30"/>
+<strikethrough_wholesale_price gross="450.55" net="366.30"/>
+<sizes  iaiext:group_name="Grupa rozmiaru uniwersalnego" iaiext:group_id="-1" iaiext:sizeList="full"><size id="uniw" name="uniwersalny" panel_name="uniwersalny" code="12812-uniw" weight="5000" iaiext:weight_net="0" code_producer="8019227374582" iaiext:code_external="3745800/" available="in_stock"  iaiext:priority="0" ><price gross="619.00" net="503.25">
+<price_marketplace_site id="73"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="123"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="124"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1000"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1001"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1002"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1003"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1004"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1005"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1006"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1007"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1008"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1009"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1010"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site></price><srp gross="0.00" net="0.00" />
+<strikethrough_retail_price gross="450.55" net="366.30"/>
+<strikethrough_wholesale_price gross="450.55" net="366.30"/>
+<stock id="1" quantity="1.000" available_stock_quantity="1" availability_id="1"/>
+</size></sizes>
+<iaiext:price_wholesale><iaiext:site  id="1"  size_id="0" gross="464.25" net="377.44"/></iaiext:price_wholesale>
+<iaiext:price_pos><iaiext:price  size_id="0" gross="0.00" net="0.00"/></iaiext:price_pos>
+<iaiext:price_minimal><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_minimal>
+<iaiext:price_automatic_calculation><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_automatic_calculation>
+<iaiext:price_retail><iaiext:site  id="1"  size_id="0" gross="619.00" net="503.25"/></iaiext:price_retail>
+<iaiext:price_retail_dynamic><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_retail_dynamic>
+<iaiext:pricecomparator_price><iaiext:site id="1" service_id="73" gross="619.00" net="503.25" iaiext:vat="23.0" iaiext:gross_from_panel="619.00" iaiext:net_from_panel="503.25"/>
+</iaiext:pricecomparator_price>
+<images><large><image iaiext:priority="1" url="https://amracing.pl/data/gfx/pictures/large/2/1/12812_1.jpg" hash="28697737385e6a0ab8e0f8578dc32ef2" changed="2022-06-03 10:58:01" width="1200" height="1600" />
+</large>
+<icons><icon iaiext:priority="1" url="https://amracing.pl/data/gfx/icons/large/2/1/12812.jpg" hash="36b98f70f8c2c308087eac690b11cca9" changed="2022-06-03 10:58:01" width="187" height="250" />
+</icons>
+</images>
+<iaiext:delivery_time_from_card unit="day" value="0"><iaiext:mode type="product"/>
+<iaiext:time days="0"/>
+</iaiext:delivery_time_from_card>
+<iaiext:sum_in_basket value="yes"/>
+<iaiext:enable_in_pos enabled="yes"/>
+<iaiext:availability_profile id="1"/>
+<iaiext:availability_management value="stock"/>
+<iaiext:loyalty_program><iaiext:site  id="1"  operation="count_cost" clients="retailers" points ="0" />
+<iaiext:site  id="1"  operation="count_cost" clients="wholesalers" points ="0" />
+<iaiext:site  id="1"  operation="client_award" clients="retailers" points ="0" />
+<iaiext:site  id="1"  operation="client_award" clients="wholesalers" points ="0" />
+</iaiext:loyalty_program>
+<iaiext:sell_by><iaiext:retail quantity="0"/>
+<iaiext:wholesale quantity="0"/>
+</iaiext:sell_by>
+<iaiext:inwrapper quantity="1"/>
+<iaiext:last_purchase_price gross="0.00" net="0.00" />
+<iaiext:average_purchase_price gross="0.00" net="0.00" />
+<iaiext:date_created datetime="2022-06-02 16:58:45" />
+<iaiext:availability><iaiext:site id="1" value="yes"/>
+</iaiext:availability>
+<iaiext:visibility><iaiext:site visible="yes"/>
+<iaiext:price_comparator visible="yes" mode="all"/>
+<iaiext:amazon_marketplaces visible="no"/></iaiext:visibility>
+<iaiext:navigation><iaiext:site id="1"><iaiext:menu id="1"></iaiext:menu>
+<iaiext:menu id="2"></iaiext:menu>
+<iaiext:menu id="3"></iaiext:menu>
+<iaiext:menu id="4"></iaiext:menu>
+<iaiext:menu id="5"></iaiext:menu>
+</iaiext:site>
+</iaiext:navigation>
+<iaiext:prices_configuration_for_shops value="same_prices" />
+<iaiext:size_chart id="0" />
+<iaiext:prices_config><iaiext:site id="1"  type="wholesale_notequals_retail"
+/></iaiext:prices_config>
+<iaiext:pos_prices_config><iaiext:site id="1"  type="pos_notequals_retail" />
+</iaiext:pos_prices_config>
+<iaiext:priority level="1"/>
+<iaiext:deliverer id="0" name="dostawca niezdefiniowany"/>
+<iaiext:modification_date datetime="2022-06-20 14:29:32" /><iaiext:expiry_date datetime="0000-00-00" /><iaiext:delivery_time unit="day" value="0"><iaiext:mode type="deliverer"/>
+<iaiext:time days="0"/>
+</iaiext:delivery_time>
+<iaiext:services_descriptions></iaiext:services_descriptions>
+</product>
+
+<product id="12813" currency="PLN" code_on_card="8019227398830" producer_code_standard="GTIN13" type="regular" vat="23.0" iaiext:product_free="n" iaiext:save_serial_numbers="na" iaiext:available="yes" site="1"><producer id="1638218761" name="Pirelli"/>
+<category id="1214553889" xml:lang="pol" name="OPONY, DĘTKI"/>
+<unit id="0" xml:lang="pol" name="szt."/>
+<card url="https://amracing.pl/pl/products/opona-tyl-pirelli-mt21-rallycross-140-80-18-70r-3988300-on-off-road-rally-12813" url_generated="https://amracing.pl/pl/products/opona-tyl-pirelli-mt21-rallycross-140-80-18-70r-3988300-on-off-road-rally-12813"/>
+<description><name xml:lang="pol"><![CDATA[Opona tył Pirelli MT21 rallycross 140/80-18 70R (3988300)()(on/off road, rally )]]></name>
+<long_desc xml:lang="pol"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" ""><HTML><HEAD> 
+<META http-equiv="Content-Type" content="text/html; charset=windows-1250"> 
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD> 
+<BODY>
+<UL>
+  <LI>cena dotyczy 1szt</LI></UL>
+<P><STRONG>W NAJBARDZIEJ ODLEGŁE ZAKĄTKI I W ULUBIONE TRASY <BR></STRONG>&nbsp; 
+</P>
+<OL>
+  <LI>Opracowana z myślą o globtroterach, rajdowcach i wszystkich, którzy     
+  oczekują maksymalnej uniwersalności i czerpią przyjemność zarówno z  jazdy po  
+     wydmach pustyni, jak i po asfalcie</LI>
+  <LI>Elastyczny karkas zapewniający wysoką stabilność oraz precyzję nadania i   
+    utrzymania toru jazdy</LI>
+  <LI>Wzór bieżnika zoptymalizowany pod kątem użytkowania na szutrowych drogach, 
+      trasach rajdów cross country i pustynnych szlakach</LI>
+  <LI>specjalna mieszanka gumowa zapewniająca wysokie osiągi w terenie i wysoką  
+       odporność na ścieranie</LI>
+  <LI>innowacyjna struktura karkasu o wysokiej odporności na wysokie prędkości i 
+      przebicia</LI></OL></BODY></HTML>
+]]></long_desc>
+<short_desc xml:lang="pol"><![CDATA[Opona tył Pirelli MT21 rallycross 140/80-18 70R (3988300)()(on/off road, rally )]]></short_desc>
+</description>
+<price gross="509.00" net="413.82"/>
+<srp gross="0.00" net="0.00"/>
+<strikethrough_retail_price gross="392.10" net="318.78"/>
+<strikethrough_wholesale_price gross="392.10" net="318.78"/>
+<sizes  iaiext:group_name="Grupa rozmiaru uniwersalnego" iaiext:group_id="-1" iaiext:sizeList="full"><size id="uniw" name="uniwersalny" panel_name="uniwersalny" code="12813-uniw" weight="5000" iaiext:weight_net="0" code_producer="8019227398830" iaiext:code_external="3988300/" available="in_stock"  iaiext:priority="0" ><price gross="509.00" net="413.82">
+<price_marketplace_site id="73"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="123"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="124"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1000"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1001"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1002"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1003"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1004"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1005"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1006"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1007"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1008"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1009"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1010"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="0.00" net="0.00" /> <cash_on_delivery gross="0.00" net="0.00" /> </delivery_cost></price_marketplace_site></price><srp gross="0.00" net="0.00" />
+<strikethrough_retail_price gross="392.10" net="318.78"/>
+<strikethrough_wholesale_price gross="392.10" net="318.78"/>
+<stock id="1" quantity="1.000" available_stock_quantity="1" availability_id="1"/>
+</size></sizes>
+<iaiext:price_wholesale><iaiext:site  id="1"  size_id="0" gross="417.38" net="339.33"/></iaiext:price_wholesale>
+<iaiext:price_pos><iaiext:price  size_id="0" gross="0.00" net="0.00"/></iaiext:price_pos>
+<iaiext:price_minimal><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_minimal>
+<iaiext:price_automatic_calculation><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_automatic_calculation>
+<iaiext:price_retail><iaiext:site  id="1"  size_id="0" gross="509.00" net="413.82"/></iaiext:price_retail>
+<iaiext:price_retail_dynamic><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_retail_dynamic>
+<iaiext:pricecomparator_price><iaiext:site id="1" service_id="73" gross="509.00" net="413.82" iaiext:vat="23.0" iaiext:gross_from_panel="509.00" iaiext:net_from_panel="413.82"/>
+</iaiext:pricecomparator_price>
+<images><large><image iaiext:priority="1" url="https://amracing.pl/data/gfx/pictures/large/3/1/12813_1.png" hash="0c6b494b2dd397f276d5f23bdcc8f204" changed="2022-06-03 13:55:35" width="992" height="992" />
+</large>
+<icons><icon iaiext:priority="1" url="https://amracing.pl/data/gfx/icons/large/3/1/12813.png" hash="6784b5f702d4ef6af7634bc70be023f8" changed="2022-06-03 13:55:35" width="250" height="250" />
+</icons>
+</images>
+<iaiext:delivery_time_from_card unit="day" value="0"><iaiext:mode type="product"/>
+<iaiext:time days="0"/>
+</iaiext:delivery_time_from_card>
+<iaiext:sum_in_basket value="yes"/>
+<iaiext:enable_in_pos enabled="yes"/>
+<iaiext:availability_profile id="1"/>
+<iaiext:availability_management value="stock"/>
+<iaiext:loyalty_program><iaiext:site  id="1"  operation="count_cost" clients="retailers" points ="0" />
+<iaiext:site  id="1"  operation="count_cost" clients="wholesalers" points ="0" />
+<iaiext:site  id="1"  operation="client_award" clients="retailers" points ="0" />
+<iaiext:site  id="1"  operation="client_award" clients="wholesalers" points ="0" />
+</iaiext:loyalty_program>
+<iaiext:sell_by><iaiext:retail quantity="0"/>
+<iaiext:wholesale quantity="0"/>
+</iaiext:sell_by>
+<iaiext:inwrapper quantity="1"/>
+<iaiext:last_purchase_price gross="0.00" net="0.00" />
+<iaiext:average_purchase_price gross="0.00" net="0.00" />
+<iaiext:date_created datetime="2022-06-02 16:58:46" />
+<iaiext:availability><iaiext:site id="1" value="yes"/>
+</iaiext:availability>
+<iaiext:visibility><iaiext:site visible="yes"/>
+<iaiext:price_comparator visible="yes" mode="all"/>
+<iaiext:amazon_marketplaces visible="no"/></iaiext:visibility>
+<iaiext:navigation><iaiext:site id="1"><iaiext:menu id="1"></iaiext:menu>
+<iaiext:menu id="2"></iaiext:menu>
+<iaiext:menu id="3"></iaiext:menu>
+<iaiext:menu id="4"></iaiext:menu>
+<iaiext:menu id="5"></iaiext:menu>
+</iaiext:site>
+</iaiext:navigation>
+<iaiext:prices_configuration_for_shops value="same_prices" />
+<iaiext:size_chart id="0" />
+<iaiext:prices_config><iaiext:site id="1"  type="wholesale_notequals_retail"
+/></iaiext:prices_config>
+<iaiext:pos_prices_config><iaiext:site id="1"  type="pos_notequals_retail" />
+</iaiext:pos_prices_config>
+<iaiext:priority level="1"/>
+<iaiext:deliverer id="0" name="dostawca niezdefiniowany"/>
+<iaiext:modification_date datetime="2022-06-20 14:29:32" /><iaiext:expiry_date datetime="0000-00-00" /><iaiext:delivery_time unit="day" value="0"><iaiext:mode type="deliverer"/>
+<iaiext:time days="0"/>
+</iaiext:delivery_time>
+<iaiext:services_descriptions></iaiext:services_descriptions>
+</product>
+
+<product id="12830" currency="PLN" type="regular" vat="23.0" iaiext:product_free="n" iaiext:save_serial_numbers="na" iaiext:available="yes" site="1"><producer id="1613486743" name="Producent niezdefiniowany"/>
+<category id="1214553889" xml:lang="pol" name="OPONY, DĘTKI"/>
+<unit id="0" xml:lang="pol" name="szt."/>
+<card url="https://amracing.pl/pl/products/opona-przod-pirelli-scorpion-extra-x-51m-80-100-21-2588300-cross-enduro-srednio-twarde-nawierzchnie-12830" url_generated="https://amracing.pl/pl/products/opona-przod-pirelli-scorpion-extra-x-51m-80-100-21-2588300-cross-enduro-srednio-twarde-nawierzchnie-12830"/>
+<description><name xml:lang="pol"><![CDATA[Opona przód Pirelli scorpion extra x 51M 80/100-21 (2588300)()(cross / enduro średnio twarde nawierzchnie)  ]]></name>
+<long_desc xml:lang="pol"><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" ""><HTML><HEAD> 
+<META http-equiv="Content-Type" content="text/html; charset=windows-1250"> 
+<META name="GENERATOR" content="MSHTML 11.00.10570.1001"></HEAD> 
+<BODY>
+<UL>
+  <LI>cena dotyczy 1szt</LI></UL>
+<DIV><STRONG style="color: black;">OPTYMALNY WYBÓR DO PROFESJONALNYCH TRENINGÓW  
+I DLA AMATORÓW DO PÓŁPROFESJONALNYCH WYŚCIGÓW </STRONG><BR><BR> Wszystkie opony  
+motocyklowe klasy NHS (Not for Highway Service -  niedopuszczone do ruchu  
+publicznego) przeznaczone są do montażu na  maszynach poruszających się   
+wyłącznie po specjalistycznych torach  wyścigowych. Z tego powodu opony nie  
+posiadają homologacji. Sugerujemy  sprawdzenie sekcji PORADY TECHNICZNE 
+ oraz/lub  kontakt z lokalnym  dealerem opon 
+wyczynowych.<BR><BR><STRONG>Przednie  koło:</STRONG> strzałkowy wzór bieżnika i 
+układ bloków  na krawędziach  zapewniają idealnie kierunkową rzeźbę widoczną od 
+razu;  ukształtowanie bloków  w  formie litery V poprawia stabilność podczas  
+hamowania i przyczepność boczną   podczas pokonywania 
+zakrętów.<BR><BR><STRONG>Tylne koło:</STRONG> maksymalna  trakcja na każdym 
+typie podłoża. Powierzchnia zewnętrzna i skład mieszanki  bieżnika z zawartością 
+ krzemionki zapewniają idealną równowagę pomiędzy  sztywnością,  wytrzymałością 
+i osiągami przez cały okres eksploatacji.<BR>
+<OL>
+  <LI>Przyczepność i trakcja na każdym typie podłoża (od nawierzchni miękkich po 
+      twarde)</LI>
+  <LI>Doskonale przystosowana do treningów; optymalny kompromis pomiędzy     
+  osiągami, a trwałością</LI>
+  <LI>Projekt wzoru bieżnika bazuje na wcześniejszych modelach, w  porównaniu z  
+     poprzednikami zwiększona odporność bieżnika opony tylnej, a opona przednia  
+     podobna jest do modelu Scorpion MX Soft 410</LI>
+  <LI>Wielowarstwowe opasanie zapewnia dużą odporność na uszkodzenia i      
+  maksymalną elastyczność, która pochłania siły podczas skoków i  pokonywania    
+   przeszkód</LI>
+  <LI>Szkoleniowe osiągi w każdym terenie, z optymalnym zużyciem bieżnika,     
+  odporne na odkształcenia i gwarantujące wydłużoną   
+trwałość</LI></OL></DIV></BODY></HTML>
+]]></long_desc>
+<short_desc xml:lang="pol"><![CDATA[Opona przód Pirelli scorpion extra x 51M 80/100-21 (2588300)()(cross / enduro średnio twarde nawierzchnie)  ]]></short_desc>
+</description>
+<price gross="245.00" net="199.19"/>
+<srp gross="0.00" net="0.00"/>
+<sizes  iaiext:group_name="Grupa rozmiaru uniwersalnego" iaiext:group_id="-1" iaiext:sizeList="full"><size id="uniw" name="uniwersalny" panel_name="uniwersalny" code="12830-uniw" weight="5000" iaiext:weight_net="0" iaiext:code_external="2588600/" available="unavailable" iaiext:removedFromStock="false" iaiext:priority="0" ><price gross="245.00" net="199.19">
+<price_marketplace_site id="73"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="123"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="124"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1000"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1001"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1002"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1003"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1004"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1005"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1006"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1007"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1008"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1009"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site><price_marketplace_site id="1010"><delivery_cost carrierId="100155" delivery_profile_id="1625728278"><prepayment gross="15.00" net="12.2" /> <cash_on_delivery gross="17.00" net="13.82" /> </delivery_cost></price_marketplace_site></price><srp gross="0.00" net="0.00" />
+</size></sizes>
+<iaiext:price_wholesale><iaiext:site  id="1"  size_id="0" gross="245.00" net="199.19"/></iaiext:price_wholesale>
+<iaiext:price_pos><iaiext:price  size_id="0" gross="0.00" net="0.00"/></iaiext:price_pos>
+<iaiext:price_minimal><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_minimal>
+<iaiext:price_automatic_calculation><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_automatic_calculation>
+<iaiext:price_retail><iaiext:site  id="1"  size_id="0" gross="245.00" net="199.19"/></iaiext:price_retail>
+<iaiext:price_retail_dynamic><iaiext:site  id="1"  size_id="0" gross="0.00" net="0.00"/></iaiext:price_retail_dynamic>
+<iaiext:pricecomparator_price><iaiext:site id="1" service_id="73" gross="245.00" net="199.19" iaiext:vat="23.0" iaiext:gross_from_panel="245.00" iaiext:net_from_panel="199.19"/>
+</iaiext:pricecomparator_price>
+<images><large><image iaiext:priority="1" url="https://amracing.pl/data/gfx/pictures/large/0/3/12830_2.jpg" hash="d153268484977270e007f1862a9b0b00" changed="2022-06-24 12:56:24" width="616" height="806" />
+<image iaiext:priority="2" url="https://amracing.pl/data/gfx/pictures/large/0/3/12830_3.jpg" hash="e0ea308b4a9c16f5846dac24c47ff7c8" changed="2022-06-24 12:56:24" width="634" height="476" />
+</large>
+<icons><icon iaiext:priority="1" url="https://amracing.pl/data/gfx/icons/large/0/3/12830.jpg" hash="0b485e46cb102dbca8e04b29c5132c18" changed="2022-06-24 12:56:43" width="191" height="250" />
+</icons>
+</images>
+<iaiext:delivery_time_from_card unit="day" value="0"><iaiext:mode type="product"/>
+<iaiext:time days="0"/>
+</iaiext:delivery_time_from_card>
+<iaiext:sum_in_basket value="yes"/>
+<iaiext:hotspots><iaiext:site id="1" manual_config="no"><flag type="newproduct" visible="yes"/>
+</iaiext:site>
+</iaiext:hotspots>
+<iaiext:enable_in_pos enabled="yes"/>
+<iaiext:availability_profile id="1"/>
+<iaiext:availability_management value="stock"/>
+<iaiext:loyalty_program><iaiext:site  id="1"  operation="count_cost" clients="retailers" points ="0" />
+<iaiext:site  id="1"  operation="count_cost" clients="wholesalers" points ="0" />
+<iaiext:site  id="1"  operation="client_award" clients="retailers" points ="0" />
+<iaiext:site  id="1"  operation="client_award" clients="wholesalers" points ="0" />
+</iaiext:loyalty_program>
+<iaiext:sell_by><iaiext:retail quantity="0"/>
+<iaiext:wholesale quantity="0"/>
+</iaiext:sell_by>
+<iaiext:inwrapper quantity="1"/>
+<iaiext:last_purchase_price gross="0.00" net="0.00" />
+<iaiext:average_purchase_price gross="0.00" net="0.00" />
+<iaiext:date_created datetime="2022-06-23 08:13:53" />
+<iaiext:availability><iaiext:site id="1" value="yes"/>
+</iaiext:availability>
+<iaiext:visibility><iaiext:site visible="yes"/>
+<iaiext:price_comparator visible="yes" mode="all"/>
+<iaiext:amazon_marketplaces visible="no"/></iaiext:visibility>
+<iaiext:navigation><iaiext:site id="1"><iaiext:menu id="1"></iaiext:menu>
+<iaiext:menu id="2"></iaiext:menu>
+<iaiext:menu id="3"></iaiext:menu>
+<iaiext:menu id="4"></iaiext:menu>
+<iaiext:menu id="5"></iaiext:menu>
+</iaiext:site>
+</iaiext:navigation>
+<iaiext:prices_configuration_for_shops value="same_prices" />
+<iaiext:size_chart id="0" />
+<iaiext:prices_config><iaiext:site id="1"  type="wholesale_notequals_retail"
+/></iaiext:prices_config>
+<iaiext:pos_prices_config><iaiext:site id="1"  type="pos_notequals_retail" />
+</iaiext:pos_prices_config>
+<iaiext:priority level="1"/>
+<iaiext:deliverer id="0" name="dostawca niezdefiniowany"/>
+<iaiext:modification_date datetime="2022-06-24 12:56:43" /><iaiext:expiry_date datetime="2022-06-23" /><iaiext:delivery_time/><iaiext:services_descriptions></iaiext:services_descriptions>
+</product>
+
+</products>
+</offer>
